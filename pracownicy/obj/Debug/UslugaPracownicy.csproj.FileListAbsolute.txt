@@ -1,0 +1,6 @@
+C:\Users\Felek\documents\visual studio 2017\Projects\pracownicy\pracownicy\bin\Debug\pracownicy.dll.config
+C:\Users\Felek\documents\visual studio 2017\Projects\pracownicy\pracownicy\bin\Debug\pracownicy.dll
+C:\Users\Felek\documents\visual studio 2017\Projects\pracownicy\pracownicy\bin\Debug\pracownicy.pdb
+C:\Users\Felek\documents\visual studio 2017\Projects\pracownicy\pracownicy\obj\Debug\pracownicy.dll
+C:\Users\Felek\documents\visual studio 2017\Projects\pracownicy\pracownicy\obj\Debug\pracownicy.pdb
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\pracownicy\obj\Debug\UslugaPracownicy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\bin\Debug\PracownicyKlient.exe.config
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\bin\Debug\PracownicyKlient.exe
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\bin\Debug\PracownicyKlient.pdb
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\PracownicyKlient.PracownicyForm.resources
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\PracownicyKlient.Properties.Resources.resources
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\KlientPracownicy.csproj.GenerateResource.Cache
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\PracownicyKlient.exe
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\PracownicyKlient.pdb
+C:\Users\Felek\Documents\Visual Studio 2017\Projects\pracownicy\PracownicyKlient\obj\Debug\KlientPracownicy.csprojResolveAssemblyReference.cache

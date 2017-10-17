@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8080/">
+    <file relUrl="bin/pracownicy.dll" publishTime="07/17/2017 00:14:00" />
+    <file relUrl="pracownicy.Usluga1.svc" publishTime="07/17/2017 00:21:51" />
+    <file relUrl="bin/pracownicy.dll.config" publishTime="07/04/2017 18:39:06" />
+    <file relUrl="Web.config" publishTime="07/04/2017 18:39:06" />
+    <file relUrl="bin/pracownicy.pdb" publishTime="07/17/2017 00:14:00" />
+  </publishTarget>
+</publishData>
